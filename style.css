@@ -654,11 +654,12 @@ img {
   display: none;
 }
 
-.dedication {
+.rickroll {
   color: white;
   font-family: sans-serif;
   bottom: 1rem;
   text-decoration: none;
+  font-size:20px;
 }
 
 .twitter-button * {
